@@ -118,7 +118,7 @@ Visualization strategies are chosen to clearly communicate insights:
 > Jorge info: 
 - jorgemmlrodrigues@gmail.com
 - https://www.linkedin.com/in/jorgemmlrodrigues/
-Sherif info : 
+> Sherif info : 
 - sherifady99@gmail.com
 - https://www.linkedin.com/in/sherif-costantin-6a9219152/ 
 
